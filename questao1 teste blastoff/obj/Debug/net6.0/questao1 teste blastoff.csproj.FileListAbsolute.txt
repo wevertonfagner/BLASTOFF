@@ -1,0 +1,15 @@
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\questao1 teste blastoff.exe
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\questao1 teste blastoff.deps.json
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\questao1 teste blastoff.runtimeconfig.json
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\questao1 teste blastoff.dll
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\ref\questao1 teste blastoff.dll
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\bin\Debug\net6.0\questao1 teste blastoff.pdb
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.csproj.AssemblyReference.cache
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.AssemblyInfoInputs.cache
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.AssemblyInfo.cs
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.csproj.CoreCompileInputs.cache
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.dll
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\ref\questao1 teste blastoff.dll
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.pdb
+C:\Users\wever\source\repos\questao1 teste blastoff\questao1 teste blastoff\obj\Debug\net6.0\questao1 teste blastoff.genruntimeconfig.cache
